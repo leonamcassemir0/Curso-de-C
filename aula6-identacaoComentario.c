@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void mani(){
+void main(){
     printf("");// instrução
     return 0;// instrução
     /* Para fazer comentários */
